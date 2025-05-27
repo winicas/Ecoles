@@ -55,7 +55,7 @@ MIDDLEWARE = [
 CORS_ALLOW_ALL_ORIGINS = True
 
 CORS_ALLOWED_ORIGINS = [
-    "https://ecole-h4ja.onrender.com"
+    "https://ecoles-es06.onrender.com"
 ]
 
 ROOT_URLCONF = 'Gf_scool.urls'
