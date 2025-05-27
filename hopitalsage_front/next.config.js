@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ['localhost'], // Configuration valide pour les images
+    domains: ['localhost', 'ecoles-es06.onrender.com'],
   },
 };
